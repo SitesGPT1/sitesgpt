@@ -7,7 +7,7 @@ At SitesGPT, we're on a mission to simplify website creation through the power o
 
 ## How to Use SitesGPT: Step-by-Step Guide 🛠️
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zm07e5jvDp0/1.jpg)](https://www.youtube.com/watch?v=zm07e5jvDp0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zm07e5jvDp0/0.jpg)](https://www.youtube.com/watch?v=zm07e5jvDp0)
 
 1. **Visit SitesGPT.com:** Navigate to our website, [SitesGPT.com](https://SitesGPT.com).
 
