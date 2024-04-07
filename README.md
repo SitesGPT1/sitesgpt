@@ -1,4 +1,4 @@
-# Welcome to SitesGPT: Revolutionizing Website Building with AI 🌐
+# Welcome to SitesGPT: Revolutionizing Website Building with AI 🤖
 
 
 ## Overview 🚀
