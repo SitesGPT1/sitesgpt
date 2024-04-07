@@ -7,6 +7,10 @@ At SitesGPT, we're on a mission to simplify website creation through the power o
 
 ## How to Use SitesGPT: Step-by-Step Guide 🛠️
 
+[![Watch the video](https://img.youtube.com/vi/zm07e5jvDp0/maxresdefault.jpg)](https://youtu.be/zm07e5jvDp0)
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/zm07e5jvDp0" title="How to Use SitesGPT - AI Website Builder Uses ChatGPT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
 1. **Visit SitesGPT.com:** Navigate to our website, [SitesGPT.com](https://SitesGPT.com).
 
 2. **Enter Business Details:** Provide the name of your business and specify the industry or type of business it belongs to.
