@@ -7,8 +7,6 @@ At SitesGPT, we're on a mission to simplify website creation through the power o
 
 ## How to Use SitesGPT: Step-by-Step Guide 🛠️
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zm07e5jvDp0/0.jpg)](https://www.youtube.com/watch?v=zm07e5jvDp0)
-
 1. **Visit SitesGPT.com:** Navigate to our website, [SitesGPT.com](https://SitesGPT.com).
 
 2. **Enter Business Details:** Provide the name of your business and specify the industry or type of business it belongs to.
@@ -41,9 +39,12 @@ At SitesGPT, we're on a mission to simplify website creation through the power o
 
 ## Get Started Today! 🚀
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zm07e5jvDp0/0.jpg)](https://www.youtube.com/watch?v=zm07e5jvDp0)
+
 Don't wait any longer to unleash the power of AI for your website. Visit [SitesGPT.com](https://SitesGPT.com) now and create your stunning website in just a few clicks!
 
 We at SitesGPT hope you enjoy the seamless website building experience we provide. Be sure to subscribe to our [YouTube](https://www.youtube.com/@sitesgpt) channel and follow us on social media for updates and tutorial videos!
+
 
 ---
 
