@@ -45,8 +45,9 @@ We at SitesGPT hope you enjoy the seamless website building experience we provid
 
 ---
 
-[![Facebook](https://img.shields.io/badge/Like-Visit-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SitesGPT/)
-[![Instagram](https://img.shields.io/badge/Follow-Explore-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sitesgpt/)
-[![Pinterest](https://img.shields.io/badge/Follow-Discover-red?style=for-the-badge&logo=pinterest)](https://in.pinterest.com/SitesGPT/)
-[![YouTube](https://img.shields.io/badge/Subscribe-Watch-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@sitesgpt)
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/SitesGPT/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sitesgpt/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Follow-red?style=for-the-badge&logo=pinterest)](https://in.pinterest.com/SitesGPT/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@sitesgpt)
+
 
